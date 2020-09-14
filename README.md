@@ -1,4 +1,4 @@
-# JSLibrary (smooth scroll)
+# JS Anchor Auto Scroll Offset
 ### How To Use
 Just put script in cerain folder and include it to your page. You can set **duration** and **padding**
 by ```data-duration ``` and ```data-padding ``` attributes. 
